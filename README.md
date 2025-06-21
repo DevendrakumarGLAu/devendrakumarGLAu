@@ -14,7 +14,9 @@
 - 🎯 Passionate about **Data Visualization**, **REST APIs**, and **Modular Web Apps**
 - ✍️ Writing blogs on development and architecture (see below)
 - 📫 Reach me at: **devendrakumarglau@gmail.com**
+- 📄 [Download My Resume]( https://drive.google.com/file/d/1r-JdalAZk_m5OkFrr4S_Z520LrxGuXFm/view?usp=drivesdk)
 
+---
 ---
 
 ### 🧰 Tech Stack
