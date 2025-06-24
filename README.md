@@ -12,14 +12,15 @@
 - 📞 +91 7351864609  
 - 📧 [devendrakumarglau@gmail.com](mailto:devendrakumarglau@gmail.com)  
 - 🌐 [linkedin.com/ANPL/Devendra](https://linkedin.com/ANPL/Devendra)  
-- 💻 [github.com/DevendrakumarGLAu](https://github.com/DevendrakumarGLAu)  
+- 💻 [github.com/DevendrakumarGLAu](https://github.com/DevendrakumarGLAu)
+- 📝.[Geeksforgeeks.org/Devendra](https://www.geeksforgeeks.org/user/devendrakbof4/)
 - 📍 Firozabad, Uttar Pradesh, India
 
 ---
 
 ### 🎯 Objective
 
-Full Stack Developer with **2+ years** of experience in Angular, React, and Python (Django, FastAPI). Skilled in building responsive UIs, RESTful APIs, and managing MySQL/PostgreSQL databases.  
+Full Stack Developer with **2.5+ years** of experience in Angular, React, and Python (Django, FastAPI). Skilled in building responsive UIs, RESTful APIs, and managing MySQL/PostgreSQL databases.  
 Seeking to contribute technical expertise and problem-solving skills to a **dynamic team** focused on impactful digital solutions.
 
 ---
